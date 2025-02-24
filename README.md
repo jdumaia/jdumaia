@@ -1,6 +1,6 @@
 - Hi, My name is José Duarte.
 - I’m interested in Spatiotemporal Databases and Time series.
-- I’m currently working as an assistant teacher at the University of Maia, Portugal.
+- I’m currently working as an auxiliar teacher at the University of Maia, Portugal.
 - You cam reach me at d012155@umaia.pt.
 
 <!---
